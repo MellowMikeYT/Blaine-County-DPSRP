@@ -1,0 +1,30 @@
+// GTA V SCRIPT HOOK (build Mar 28 2018, v1.0.1365.1)
+//     (C) Alexander Blade 2015-2018
+[00:50:57] INIT: Started
+[00:50:57] INIT: Success, game version is VER_1_0_1365_1_NOSTEAM
+[00:50:57] INIT: Registering script 'LambdaMenu.asi' (0x00007FF947495410)
+[00:50:58] INIT: Registering script 'ScriptHookVDotNet.asi' (0x00007FF98F8C1380)
+[00:50:58] INIT: Registering script 'TrainerV.asi' (0x00007FF9467342A0)
+[00:51:04] INIT: Pool 1 extended
+[00:51:04] INIT: Pool 2 extended
+[00:51:04] INIT: Pool 3 extended
+[00:51:04] INIT: Pool 4 extended
+[00:51:09] INIT: GtaThread collection size 189
+[00:51:09] INIT: wnd proc 0x00000000FFFF033E
+[00:51:09] INIT: IDXGISwapChain 0x00007FF991AA8018 (0x00007FF991A41D20)
+[00:51:09] INIT: IDXGISwapChain set
+[00:51:09] INIT: DX init started
+[00:51:09] INIT: DX feature level B000
+[00:51:09] INIT: DX init succeeded
+[00:52:40] CORE: Requesting thread creation
+[00:52:40] CORE: Creating threads
+[00:52:41] CORE: Started control thread, id 33 active 1
+[00:52:41] CORE: Started thread 'LambdaMenu.asi' (0x00007FF947495410), id 34 active 1
+[00:52:41] CORE: Started thread 'ScriptHookVDotNet.asi' (0x00007FF98F8C1380), id 35 active 1
+[00:52:41] CORE: Started thread 'TrainerV.asi' (0x00007FF9467342A0), id 36 active 1
+[00:52:41] CORE: Launching main() for 'LambdaMenu.asi' (0x00007FF947495410), id 34
+[00:52:41] CORE: Launching main() for 'ScriptHookVDotNet.asi' (0x00007FF98F8C1380), id 35
+[00:52:41] CORE: Launching main() for 'TrainerV.asi' (0x00007FF9467342A0), id 36
+[00:55:20] UNINIT: Unregistering script 'TrainerV.asi'
+[00:55:20] UNINIT: Unregistering script 'ScriptHookVDotNet.asi'
+[00:55:20] UNINIT: Unregistering script 'LambdaMenu.asi'

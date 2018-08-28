@@ -1,0 +1,3 @@
+[00:52:41] [DEBUG] Created script domain 'ScriptDomain_49ED18DC' with v2.10.6.
+[00:52:41] [DEBUG] Loading scripts from 'C:\Program Files\Rockstar Games\Grand Theft Auto V\scripts' into script domain 'ScriptDomain_49ED18DC' ...
+[00:52:41] [ERROR] Failed to reload scripts because the directory is missing.
