@@ -1,7 +1,7 @@
-# Blaine-County-DPSRP
+# Impulse Role-Play
 All the mods required for the server.
 
-This Unsanctioned Folder includes the Player location display (pld), 
+This ImpulseRP Folder includes the Player location display (pld), 
 scripthookv, scripthookv.net, lamda menu, simple trainer, and a graphics 
 overhaul.
 
